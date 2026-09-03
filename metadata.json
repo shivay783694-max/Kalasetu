@@ -1,0 +1,8 @@
+{
+  "name": "KalaSetu",
+  "description": "AI-Driven Market Linkage and Smart Cataloging Mobile Application for Marginalized Artisans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
